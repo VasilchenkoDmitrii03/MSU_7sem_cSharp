@@ -1,0 +1,11 @@
+C:\Dmitrii\Programming\MSU\MSU_7sem_cSharp\GeneticAlg\RouteOprimizerLib\bin\Debug\net8.0\RouteOprimizerLib.deps.json
+C:\Dmitrii\Programming\MSU\MSU_7sem_cSharp\GeneticAlg\RouteOprimizerLib\bin\Debug\net8.0\RouteOprimizerLib.dll
+C:\Dmitrii\Programming\MSU\MSU_7sem_cSharp\GeneticAlg\RouteOprimizerLib\bin\Debug\net8.0\RouteOprimizerLib.pdb
+C:\Dmitrii\Programming\MSU\MSU_7sem_cSharp\GeneticAlg\RouteOprimizerLib\obj\Debug\net8.0\RouteOprimizerLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dmitrii\Programming\MSU\MSU_7sem_cSharp\GeneticAlg\RouteOprimizerLib\obj\Debug\net8.0\RouteOprimizerLib.AssemblyInfoInputs.cache
+C:\Dmitrii\Programming\MSU\MSU_7sem_cSharp\GeneticAlg\RouteOprimizerLib\obj\Debug\net8.0\RouteOprimizerLib.AssemblyInfo.cs
+C:\Dmitrii\Programming\MSU\MSU_7sem_cSharp\GeneticAlg\RouteOprimizerLib\obj\Debug\net8.0\RouteOprimizerLib.csproj.CoreCompileInputs.cache
+C:\Dmitrii\Programming\MSU\MSU_7sem_cSharp\GeneticAlg\RouteOprimizerLib\obj\Debug\net8.0\RouteOprimizerLib.dll
+C:\Dmitrii\Programming\MSU\MSU_7sem_cSharp\GeneticAlg\RouteOprimizerLib\obj\Debug\net8.0\refint\RouteOprimizerLib.dll
+C:\Dmitrii\Programming\MSU\MSU_7sem_cSharp\GeneticAlg\RouteOprimizerLib\obj\Debug\net8.0\RouteOprimizerLib.pdb
+C:\Dmitrii\Programming\MSU\MSU_7sem_cSharp\GeneticAlg\RouteOprimizerLib\obj\Debug\net8.0\ref\RouteOprimizerLib.dll
